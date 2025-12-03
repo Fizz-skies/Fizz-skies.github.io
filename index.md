@@ -1,6 +1,8 @@
 # Daniel Sanchez Hernandez's Portfolio
 
-I am a Mechanical Engineering major at CSUF and I plan on graduating in 2028.
+Hi my name is Daniel I am a Mechanical Engineering major at CSUF and I plan on graduating in 2028. 
+
+Here is the link to my Github page https://github.com/Fizz-skies.
 
 ## Favorite CPSC 120L Labs 
 
